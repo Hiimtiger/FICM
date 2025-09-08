@@ -8,7 +8,7 @@ FICM: Force Informed Cell Map Image Synthesis using Attention-gated Dual Encoder
 </p>
 
 <p align="center">
-  <img src="assets/poster_montage.png" width="70%" />
+  <img src="assets/poster_montage.png" width="90%" />
 </p>
 
 - Carcinoma Cell Line Classification Problem:
