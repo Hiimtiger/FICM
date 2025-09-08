@@ -1,1 +1,14 @@
-# FICM: Force Informed Cell Map Image Synthesis using Attention-gated Dual Encoder U-Net for Carcinoma Cell Line Classification    
+# FICM: Force Informed Cell Map 
+
+FICM: Force Informed Cell Map Image Synthesis using Attention-gated Dual Encoder U-Net for Carcinoma Cell Line Classification    
+
+CarcinomaCellLineClassificationProblem:HCC827&A549aretwotypesof lungadenocarcinomacell lines thatdisplaydifferentaggressiveness
+ behaviors.Thoughtheycanbeseparatedviastaining,differentstainingmethodsmayinfluencetheiractualbehaviors.Furthermore,cellularmorphology
+ can be completely stochastic, making it very challenging and highly subjective to separate themvia fluorescence signals using the naked eye.
+ClassificationviaForceMap:ItisknownthatA549exhibitsmoremovementonthesubstratethanHCC827.Therefore,thetwotypesarehypothesizedto
+ havedifferent forcedistributionpatternswhichcanbe turned intovisible signalsbyculturing themon force-sensingchips. Force-sensingchips are
+ synthesizedsubstratewithmicropillarsspanningacrossthesensorchipforcellstogridonto.Whenacellexertsforceontothemicropillars,displacements
+ canbedetectedviareflectsignalsandconvertedintogradientforcemaps.However,gradientmapslackspatial informationtosingleout individualcells.
+ForceInformedCellMap:Toaddresstheseissues,weproposeanewmodalitythatcombinesbothinformationfromatargetcell’smorphologyandits
+ internalforcemapsynthesizedcompletelybasedondeeplearningwithanattentiongateddualencoderU-NetwithSE-Fusionmodulemodelarchitecture.
+ The proposedmodalitypossesses a clear boundarymask alongwith force gradients inside themask that represents the force patterns of a cell
