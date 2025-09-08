@@ -3,7 +3,7 @@
 FICM: Force Informed Cell Map Image Synthesis using Attention-gated Dual Encoder U-Net for Carcinoma Cell Line Classification    
 
 <p align="center">
-  <img src="assets/HCC_3D_video.gif" width="45%" />
+  <img src="assets/HCC_3D_vid.gif" width="45%" />
   <img src="assets/A_3d_video.gif" width="45%" />
 </p>
 
