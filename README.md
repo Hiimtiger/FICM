@@ -2,6 +2,11 @@
 
 FICM: Force Informed Cell Map Image Synthesis using Attention-gated Dual Encoder U-Net for Carcinoma Cell Line Classification    
 
+<p align="center">
+  <img src="assets/HCC_3D_video.gif" width="45%" />
+  <img src="assets/A_3d_video.gif" width="45%" />
+</p>
+
 - Carcinoma Cell Line Classification Problem:
   HCC827 & A549 are two types of lungadenocarcinomacell lines that display different aggressiveness behaviors. Though they can be separated via staining, different staining methods may influence their actual behaviors. Furthermore, cellularmorphology can be completely stochastic, making it very challenging and highly subjective to separate themvia fluorescence signals using the naked eye.
 - Classification via Force Map:
