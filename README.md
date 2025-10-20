@@ -42,7 +42,7 @@ Our training method allowed complementary modality fusion, which would **use bot
 </table>
 
 ## Modality fusion Model Architecture:
-Our model architecture is inspired by [MRI-Styled PET](https://ieeexplore.ieee.org/document/10918787). We adpoted a dual-encoder structure to extract features from both fluorescence signals and force gradient. We added a Squeeze-and-Excitation Module at the bottleneck to adapt the fusion weights channel-by-channel. Our loss function consists of equal weights of dice loss and masked smooth L1 loss (only consider the accumulated loss within the boundary). 
+Our model architecture is inspired by [MRI-Styled PET](https://ieeexplore.ieee.org/document/10918787). We adpoted a dual-encoder structure to extract features from both fluorescence signals and force gradient signals. We added a Squeeze-and-Excitation Module at the bottleneck to adapt the fusion weights channel-by-channel. Our loss function consists of equal weights of dice loss and masked smooth L1 loss (only consider the accumulated loss within the boundary). 
 <p align="center">
   <img src="./assets_ficm/model_architecture.svg" width="600" alt="Figure 6">
   <br>
