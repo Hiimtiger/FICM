@@ -88,7 +88,7 @@ We used a simple 4-layer CNN model for this classification task.
 - Hypothesis validation: Many A549 cells exerts force on endpoints for linear movement, while HCC827 cells show scattered focal adhesions for anchoring.
 
 <p align="center">
-  <img src="./assets_ficm/p5.gif" width="500" alt="Figure 12">
-  <img src="./assets_ficm/p6.png" width="500" alt="Figure 13">
+  <img src="./assets_ficm/p5.gif" width="400" alt="Figure 12">
+  <img src="./assets_ficm/p6.png" width="400" alt="Figure 13">
   <br>
 </p>
