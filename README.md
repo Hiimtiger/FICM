@@ -5,7 +5,7 @@ FICM: Force Informed Cell Map Image Synthesis using Attention-gated Dual Encoder
 - **Our Hypothesis**: We find A549 cells exert more movements than HCC827 cells under the microscope. Therefore, we hypothesize that A549 cells has a different force pattern than 
 - In our research, we propose a **new medical image modality that combined a cell's morphological feature with its internal force gradients captured with force-sensing chips**. Our proposed modality is able to enhance classification accuracy by 37.67% compared to unprocessed modalities.
 
-See the **[full Poster here](./assets_ficm/RCAS_summer_intern_seminar_kailinchen.pdf)** for more dataset description and results analyses.
+See the **[full Poster here](./assets_ficm/RCAS_summer_intern_seminar_poster_kailinchen.pdf)** for more dataset description and results analyses.
 
 <p align="center">
   <img src="./assets_ficm/poster_montage.png" width="800" alt="Figure 1">
