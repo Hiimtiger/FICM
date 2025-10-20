@@ -50,7 +50,7 @@ Our model architecture is inspired by [MRI-Styled PET](https://ieeexplore.ieee.o
 </p>
 
 ## Classification model architecture and classification results:
-We used a sinmple 4-layer CNN model for this classification task.
+We used a simple 4-layer CNN model for this classification task.
 <p align="center">
   <img src="./assets_ficm/classification_model_architecture.svg" width="600" alt="Figure 7">
   <br>
