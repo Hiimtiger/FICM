@@ -5,6 +5,7 @@ FICM: Force Informed Cell Map Image Synthesis using Attention-gated Dual Encoder
 - In our research, we propose a **new medical image modality** that combined a cell's morphological feature with its internal force gradients captured with force-sensing chips. Our prroposed modality is able to enhance classification accuracy by 37.67% compared to unprocessed modalities.
 
 ## Modality Design: 
+The proposed fusion modality combines two major features of a cell, the boundary feature and its internal force gradient. 
 <p align="center">
   <img src="./assets_ficm/p2.gif" width="600" alt="Figure 1">
   <br>
