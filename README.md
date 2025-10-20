@@ -85,3 +85,9 @@ We used a simple 4-layer CNN model for this classification task.
 - Enhances classification accuracy by 37.67% compared to unprocessed modalities.
 - Mechanical force pattern provide discriminative features to classify A549 and HCC827 cell lines.
 - Hypothesis validation: Many A549 cells exerts force on endpoints for linear movement, while HCC827 cells show scattered focal adhesions for anchoring.
+
+<p align="center">
+  <img src="./assets_ficm/classification_model_architecture.svg" width="600" alt="Figure 7">
+  <br>
+  <b>Figure 7.</b> Overview of our classification model architecture.
+</p>
