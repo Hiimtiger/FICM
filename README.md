@@ -84,7 +84,7 @@ We used a simple 4-layer CNN model for this classification task.
 - Our proposed dual modality fusion network generates images with high structural similarity (average≈0.9693) and high overlap with the consensus groundtruths.
 - Enhances classification accuracy by 37.67% compared to unprocessed modalities.
 - Mechanical force pattern provide discriminative features to classify A549 and HCC827 cell lines.
-- Hypothesis validation: Many A549 cells exerts force on endpoints for linear movement, while HCC827 cells show scattered focal adhesions for anchoring. (See Figure Below)
+- **Hypothesis validation**: Many A549 cells exerts force on endpoints for linear movement, while HCC827 cells show scattered focal adhesions for anchoring. (See Figure Below)
 
 <p align="center">
   <img src="./assets_ficm/p6.png" width="600" alt="Figure 12">
