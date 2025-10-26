@@ -80,7 +80,7 @@ We used a simple 4-layer CNN model for this classification task.
 </table>
 
 ## Conclusions:
-- We developed a new medical image modality for cell mechanobiology studies.
+- We developed a new deep learning-based medical image modality for cell mechanobiology studies.
 - Our proposed dual modality fusion network generates images with high structural similarity (average≈0.9693) and high overlap with the consensus groundtruths.
 - Enhances classification accuracy by 37.67% compared to unprocessed modalities.
 - Mechanical force pattern provide discriminative features to classify A549 and HCC827 cell lines.
